@@ -16,10 +16,10 @@
     "prettier/prettier": [
       "error",
       {
-        "trailingComma": "all",
+        "trailingComma": "always-multiline",
         "endOfLine": "lf",
-        "semi": false,
-        "singleQuote": true,
+        "semi": true,
+        "singleQuote": false,
         "printWidth": 80,
         "tabWidth": 2
       }
